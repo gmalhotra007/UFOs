@@ -9,7 +9,7 @@
 - User filtered the data by `Date-1/13/2010`
 <img src="Images/byDate.png">
 
-- User filtered the data by `City-White Oak`
+- User filtered the data by `City- st. louis`
 <img src="Images/byCity.png">
 
 - User filtered the data by `State-Arkansas/ar`
